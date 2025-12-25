@@ -1,0 +1,18 @@
+{
+  "students": [
+    { "id": 1, "name": "Mansur Malikov", "group": "F3-3012", "coins": 1182, "late": 1 },
+    { "id": 2, "name": "Bohodirov Odil", "group": "F3-3012", "coins": 1470, "late": 0 },
+    { "id": 3, "name": "Abdumanoppov Azamat", "group": "nF-2941", "coins": 998, "late": 1 }
+  ],
+  "attendance": [
+    {
+      "id": "F3-3012_December.25",
+      "group": "F3-3012",
+      "month": "December.25",
+      "data": {
+        "1": { "dates": { "01.12": "present", "03.12": "absent" } },
+        "2": { "dates": { "01.12": "present" } }
+      }
+    }
+  ]
+}
